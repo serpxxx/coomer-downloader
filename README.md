@@ -2,26 +2,19 @@
 
 
 ## Related
--
 
 ---
-
 <details>
-
 <summary>
   Research
 </summary>
-
 # How to Download Coomer Videos: Technical Analysis of Stream Patterns, CDNs, and Download Methods
-
 *A comprehensive research document analyzing Coomer's video infrastructure, embed patterns, stream formats, and optimal download strategies using modern tools*
-
 **Authors**: SERP Apps  
 **Date**: December 2025  
 **Version**: 1.0
-
 ---
-
+- [Coomer Downloader gist](https://gist.github.com/devinschumacher/e86dd22a135ca854743214392117ae01)
 ## Abstract
 
 This document covers Coomer's API endpoints for post metadata and the direct file URLs used for attachments, including video files.
