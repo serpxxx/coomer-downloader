@@ -20,7 +20,7 @@ Coomer Downloader is a browser extension built for users who want to save more t
 
 ## Preview
 
-![Coomer Downloader workflow preview](assets/workflow-preview.svg)
+![Coomer Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
