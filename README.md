@@ -134,19 +134,19 @@ Start here: [https://serp.ly/coomer-downloader](https://serp.ly/coomer-downloade
 
 ## FAQ
 
-**What types of content can I download**  
+**What types of content can I download?**  
 Supported videos, images, GIFs, and text posts can be collected through the extension.
 
-**Can I download an entire creator page**  
+**Can I download an entire creator page?**  
 You can bulk-download the visible posts currently loaded in your browser session.
 
-**Where are my downloads saved**  
+**Where are my downloads saved?**  
 Files are saved to your default Downloads location in creator-organized folders.
 
-**Does it save text posts too**  
+**Does it save text posts too?**  
 Yes. Supported text posts can be exported alongside media attachments.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
