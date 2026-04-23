@@ -4,7 +4,7 @@
   "description": "Coomer Downloader gives creators and teams a dependable way to save Coomer media posts for offline access. Instead of juggling manual captures or risky browser extensions, it pulls publicly accessible files directly from Coomer with consistent quality.\n\nUse it to archive research material, prep client deliverables, or keep your personal library available when you're traveling or working with limited connectivity.",
   "input": "./INPUT_SCHEMA.json",
   "name": "coomer-downloader",
-  "readme": "../README.md",
+  "readme": "../ACTOR.md",
   "title": "Coomer Downloader",
   "version": "0.0"
 }
