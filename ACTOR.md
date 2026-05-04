@@ -1,6 +1,10 @@
-# Coomer Downloader
+# Coomer Video Downloader | How to Download Coomer Videos
 
 > Save supported Coomer posts, videos, images, GIFs, and text into organized local folders.
+
+## Get it Here
+
+Get it here: https://serp.ly/coomer-downloader
 
 ![Coomer Downloader](https://raw.githubusercontent.com/serpxxx/coomer-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ Coomer Downloader is a browser extension built for users who want to save more t
 - Download individual posts or bulk-save visible content
 - Keep files organized by creator and post structure
 - Use popup controls and in-page actions for faster collection
-
-## Get it Here
-
-Get it here: https://serp.ly/coomer-downloader
-
 ## Table of Contents
 
 - [Why Coomer Downloader](#why-coomer-downloader)
